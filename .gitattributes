@@ -1,0 +1,2 @@
+anomaly_detection/Resources/lab1_test.csv filter=lfs diff=lfs merge=lfs -text
+anomaly_detection/Resources/lab1_train.csv filter=lfs diff=lfs merge=lfs -text
